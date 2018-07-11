@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Title
-subtitle: subtitle
+title: About me
 ---
 
-My name is XXX. I have the following qualities:
+This is the personal website of me.
 
-[comment]: <> - I rock a great mustache
-[comment]: <> - I'm extremely loyal to my family
+In the day I am a cryptographer. I work on lattice based cryptography. I had the pleasure to work with my collaborators on almost all aspects related to lattice based cryptography, with a special focus on NTRU cryptosystem.
 
-What else do you need?
 
-### my history
+In the night I am a laker fan.
 
-[comment]: <> To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![湖人总冠军](img/hrzgj.jpeg)
