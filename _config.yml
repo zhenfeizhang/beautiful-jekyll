@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Zhenfei Zhang's personal website
+title: Zhenfei Zhang
 
 # Short description of your site
 description:
@@ -24,11 +24,12 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications: "pub"
   Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/zhenfeizhang"
-    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
+#    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -37,7 +38,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/ge.jpg
+title-img: 
 
 # --- Footer options --- #
 
