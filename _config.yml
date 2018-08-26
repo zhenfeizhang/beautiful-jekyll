@@ -17,7 +17,7 @@ baseurl: ""
 title: Zhenfei Zhang
 
 # Short description of your site
-description:
+description: personal website
 
 # --- Navigation bar options --- #
 
@@ -29,6 +29,8 @@ navbar-links:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/zhenfeizhang"
+    - Round5 KEM/PKE: "https://round5.org/"
+    - Falcon Signature: "https://falcon-sign.info/"
 #    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
 #  Author's home: "http://deanattali.com"
 

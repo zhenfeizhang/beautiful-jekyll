@@ -10,7 +10,7 @@ title: Publications
 ------------------------
 * __On the Hardness of the Computational Ring-LWR Problem and its Applications__
   * _Long Chen  and Zhenfeng Zhang  and Zhenfei Zhang_
-  * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536)
+  * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536) [Crypto Rump session](talks/rclwr_rump.pdf)
 
 * __A signature scheme from the finite field isomorphism problem.}__
   * _Jeffrey Hoffstein and Joseph H. Silverman and William Whyte and Zhenfei Zhang_

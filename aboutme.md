@@ -3,8 +3,6 @@ layout: page
 title: About me
 ---
 
-This is the personal website of me.
-
 Dr. Zhenfei Zhang is the director of cryptographic
 reseaech at OnBoard Security Inc. Before joining OnBoard
 Security, he received his Ph.D. from University
