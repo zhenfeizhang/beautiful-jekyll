@@ -4,9 +4,6 @@ title: Closer to Proving the NTRU Assumption
 image:
 tags: [blog]
 ---
-Closer to Proving the NTRU Assumption
-=====================================
-
 
 Originally posted [here](http://blog.onboardsecurity.com/blog/closer-to-proving-the-ntru-assumption).
 
