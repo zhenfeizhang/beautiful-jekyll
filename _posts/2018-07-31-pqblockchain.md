@@ -21,8 +21,9 @@ Before we start, let’s briefly recall what a blockchain is and what makes it s
 At a high level, the data blocks are linked together via a hash function: the hash function compresses a block into a short image. A chain is formed by embedding the image of the previous block into the next block, and so forth. An engineering equivalent is a linked list, where each node has a field that stores the hash digest of the previous node. Next, this chain is duplicated among many participants, either publicly (public chain) or privately (alliance chain). 
 
 The data integrity relies on the facts that 
-a) it is computationally infeasible to reserve the hash function, and 
-b) no single “trusted” party (for example, your cloud provider) is able to overwrite the consensus of the participants. 
+
+* it is computationally infeasible to reserve the hash function, and 
+* no single “trusted” party (for example, your cloud provider) is able to overwrite the consensus of the participants. 
 
 Of course, data is not all about integrity. In most cases people are also concerned with data authenticity and privacy. Authenticity means that your data is indeed from an authorized entity, be it a service provider, or a legitimate subscriber. Privacy is a particularly concerning issue. It means no one should be able to link the data to its owner, unless they opt to. From a legal point of view, European has put forth this General Data Protection Regulation (GDPR) regulation. From a commercial point of view, we have seen how much damage privacy has done on Facebook in the past few days.
 
