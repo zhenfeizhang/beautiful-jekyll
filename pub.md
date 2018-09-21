@@ -8,11 +8,11 @@ title: Publications
 
 2018
 ------------------------
-*__Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
+* __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
  * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/857).
 
-*__Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
+* __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
  * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
  * Cardis 2018. [IACR eprint](https://eprint.iacr.org/2018/723).
 
