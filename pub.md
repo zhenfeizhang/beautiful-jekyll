@@ -20,7 +20,7 @@ title: Publications
   * _Long Chen, Zhenfeng Zhang, Zhenfei Zhang_
   * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536), [Crypto Rump session](talks/rclwr_rump.pdf).
 
-* __A signature scheme from the finite field isomorphism problem.}__
+* __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
   * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](talks/FiniteFieldSignatures.pdf).
 
