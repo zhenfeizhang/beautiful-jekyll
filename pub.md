@@ -8,11 +8,19 @@ title: Publications
 
 2018
 ------------------------
+* __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
+  * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/857).
+
+* __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
+  * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
+  * Cardis 2018. [IACR eprint](https://eprint.iacr.org/2018/723).
+
 * __On the Hardness of the Computational Ring-LWR Problem and its Applications__
   * _Long Chen, Zhenfeng Zhang, Zhenfei Zhang_
   * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536), [Crypto Rump session](talks/rclwr_rump.pdf).
 
-* __A signature scheme from the finite field isomorphism problem.}__
+* __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
   * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](talks/FiniteFieldSignatures.pdf).
 
