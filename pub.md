@@ -8,6 +8,11 @@ title: Publications
 
 2018
 ------------------------
+* __LAC: Practical Ring-LWE Based Public-Key Encryption with Byte-Level Modulus__
+  * _Xianhui Lu, Yamin Liu, Zhenfei Zhang, Dingding Jia, Haiyang Xue, Jingnan He, Bao Li_
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009).
+   
+
 * __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/857).
@@ -18,7 +23,7 @@ title: Publications
 
 * __On the Hardness of the Computational Ring-LWR Problem and its Applications__
   * _Long Chen, Zhenfeng Zhang, Zhenfei Zhang_
-  * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536), [Crypto Rump session](talks/rclwr_rump.pdf).
+  * Asiacrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/536).
 
 * __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
