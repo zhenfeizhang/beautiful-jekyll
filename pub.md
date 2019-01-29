@@ -4,7 +4,16 @@ title: Publications
 ---
 
 
+2019
+-------
+* __Round5: Compact and Fast Post-Quantum Public-Key Encryption__
+  * _Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang_
+ * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf) [Website](https://round5.org)
 
+
+* __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
+   * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
+   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf)
 
 2018
 ------------------------
