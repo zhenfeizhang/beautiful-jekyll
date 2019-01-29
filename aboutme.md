@@ -3,17 +3,19 @@ layout: page
 title: About me
 ---
 
-Dr. Zhenfei Zhang is the director of cryptographic
-reseaech at [OnBoard Security Inc](https://www.onboardsecurity.com/). Before joining OnBoard
-Security, he received his Ph.D. from 
-[University of Wollongong](https://www.uow.edu.au/) in 2014, and then worked as a
+I am a Cryptographic Engineer at [Algorand](algorand.com).
+I deal with implementations of cryptography in blockchains.
+Before jointing Algorand, I was the director of cryptographic
+research at [OnBoard Security Inc](https://www.onboardsecurity.com/);
+and a
 Research Scientist for [Security Innovation Inc](https://www.securityinnovation.com/).
-His main research areas include lattice-based
+
+I received my Ph.D. from
+[University of Wollongong](https://www.uow.edu.au/) in 2014.
+My main research area has been lattice-based
 cryptography, NTRU cryptosystems, fully homomorphic
 encryptions, and anonymous signatures.
-He is also actively working on standardization
+I am also actively working on standardization
 of quantum-safe cryptography for various standards bodies.
 
 You may find a CV [here](pdf/cv.pdf), last update Sep, 2018.
-
-
