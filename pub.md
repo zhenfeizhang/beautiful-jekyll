@@ -6,14 +6,19 @@ title: Publications
 
 2019
 -------
+
+* __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
+  * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
+  * ACNS 2019. [IACR eprint](https://eprint.iacr.org/2018/857). [Source code](https://github.com/zhenfeizhang/raptor).
+
 * __Round5: Compact and Fast Post-Quantum Public-Key Encryption__
   * _Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang_
-  * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf) [Website](https://round5.org)
+  * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf). [Website](https://round5.org).
 
 
 * __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
    * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
-   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf)
+   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf).
 
 2018
 ------------------------
@@ -22,9 +27,7 @@ title: Publications
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009).
 
 
-* __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
-  * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/857).
+
 
 * __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
   * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
