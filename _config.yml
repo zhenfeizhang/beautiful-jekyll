@@ -31,6 +31,7 @@ navbar-links:
     - GitHub Pages: "https://github.com/zhenfeizhang"
     - Round5 KEM/PKE: "https://round5.org/"
     - Falcon Signature: "https://falcon-sign.info/"
+    - NTRU: "https://ntru.org"
 #    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
 #  Author's home: "http://deanattali.com"
 
@@ -40,7 +41,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: 
+title-img:
 
 # --- Footer options --- #
 
@@ -107,7 +108,7 @@ url-pretty: "zhenfeizhang.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 100
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title

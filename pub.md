@@ -15,7 +15,6 @@ title: Publications
   * _Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang_
   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf). [Website](https://round5.org).
 
-
 * __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
    * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
    * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf).
@@ -24,10 +23,7 @@ title: Publications
 ------------------------
 * __LAC: Practical Ring-LWE Based Public-Key Encryption with Byte-Level Modulus__
   * _Xianhui Lu, Yamin Liu, Zhenfei Zhang, Dingding Jia, Haiyang Xue, Jingnan He, Bao Li_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009).
-
-
-
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC)
 
 * __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
   * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
