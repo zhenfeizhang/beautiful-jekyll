@@ -7,6 +7,10 @@ title: Publications
 2019
 -------
 
+* __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
+  * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
+  * Crypto 2019. 
+
 * __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
   * ACNS 2019. [IACR eprint](https://eprint.iacr.org/2018/857). [Source code](https://github.com/zhenfeizhang/raptor).
