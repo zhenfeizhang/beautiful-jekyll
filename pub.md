@@ -7,9 +7,15 @@ title: Publications
 2019
 -------
 
+
+
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
   * Crypto 2019. 
+  
+* __(Linkable) Ring Signature from Hash-Then-One-Way Signature__
+  * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
+  * TrustCom 2019.  
 
 * __Ring Signatures based on Middle-Product Learning with Errors Problems__
   * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
