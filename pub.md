@@ -11,6 +11,10 @@ title: Publications
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
   * Crypto 2019. 
 
+* __Ring Signatures based on Middle-Product Learning with Errors Problems__
+  * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
+  * Africacrypt 2019.
+
 * __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
   * ACNS 2019. [IACR eprint](https://eprint.iacr.org/2018/857). [Source code](https://github.com/zhenfeizhang/raptor).
