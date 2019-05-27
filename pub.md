@@ -15,7 +15,7 @@ title: Publications
   
 * __(Linkable) Ring Signature from Hash-Then-One-Way Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
-  * TrustCom 2019.  
+  * TrustCom 2019.  [IACR eprint](https://eprint.iacr.org/2019/567). 
 
 * __Ring Signatures based on Middle-Product Learning with Errors Problems__
   * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
