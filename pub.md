@@ -11,7 +11,7 @@ title: Publications
 
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
-  * Crypto 2019. 
+  * Crypto 2019.   [IACR eprint](https://eprint.iacr.org/2019/747).
   
 * __(Linkable) Ring Signature from Hash-Then-One-Way Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
