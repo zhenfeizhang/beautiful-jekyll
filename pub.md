@@ -6,16 +6,17 @@ title: Publications
 
 2019
 -------
-
-
+* __Middle-Product Learning with Rounding Problem and its Applications__
+  * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
+  * Asiacrypt 2019.
 
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
   * Crypto 2019.   [IACR eprint](https://eprint.iacr.org/2019/747).
-  
+
 * __(Linkable) Ring Signature from Hash-Then-One-Way Signature__
   * _Xingye Lu, Man Ho Au, Zhenfei Zhang_
-  * TrustCom 2019.  [IACR eprint](https://eprint.iacr.org/2019/567). 
+  * TrustCom 2019.  [IACR eprint](https://eprint.iacr.org/2019/567).
 
 * __Ring Signatures based on Middle-Product Learning with Errors Problems__
   * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
@@ -30,8 +31,8 @@ title: Publications
   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf). [Website](https://round5.org).
 
 * __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
-   * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
-   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf).
+  * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
+  * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/083.pdf).
 
 2018
 ------------------------
