@@ -8,7 +8,7 @@ title: Publications
 -------
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
-  * Asiacrypt 2019.
+  * Asiacrypt 2019. [IACR eprint](https://eprint.iacr.org/2019/1001).
 
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
