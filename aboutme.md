@@ -4,7 +4,7 @@ title: About me
 ---
 
 I am a Cryptographic Engineer at [Algorand](algorand.com).
-I deal with implementations of cryptography in blockchains.
+I deal with implementations of cryptography for blockchains.
 Before jointing Algorand, I was the director of cryptographic
 research at [OnBoard Security Inc](https://www.onboardsecurity.com/);
 and a
