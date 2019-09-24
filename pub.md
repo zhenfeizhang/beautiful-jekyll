@@ -6,6 +6,10 @@ title: Publications
 
 2019
 -------
+* __Modular Lattice Signatures, revisited__
+  * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
+  * Design, Codes and Cryptography. 
+
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
   * Asiacrypt 2019. [IACR eprint](https://eprint.iacr.org/2019/1001).

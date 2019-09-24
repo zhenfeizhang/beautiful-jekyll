@@ -2,7 +2,7 @@
 layout: post
 title: Raptor paper
 image:
-tags: [Paper]
+tags: [Paper, blockchain]
 ---
 
 The paper titled,
