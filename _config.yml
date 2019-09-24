@@ -24,6 +24,7 @@ description: personal website
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "http://zhenfeizhang.github.io"
   About Me: "aboutme"
   Publications: "pub"
   Resources:
