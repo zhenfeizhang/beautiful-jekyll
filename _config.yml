@@ -27,7 +27,7 @@ navbar-links:
   News: "http://zhenfeizhang.github.io"
   About Me: "material/aboutme"
   Publications: "material/pub"
-  Why lattice: "material/why"
+  Why lattice: "why"
   Resources:
     - NIST PQC standardization: "material/nist"
     - Cryptography for blockchain: "material/bc"
