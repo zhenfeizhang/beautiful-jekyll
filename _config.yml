@@ -27,6 +27,7 @@ navbar-links:
   Home: "http://zhenfeizhang.github.io"
   About Me: "aboutme"
   Publications: "pub"
+  Why lattice: "why"
   Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
