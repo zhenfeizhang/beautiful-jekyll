@@ -25,16 +25,16 @@ description: personal website
 # List of links in the navigation bar
 navbar-links:
   Home: "http://zhenfeizhang.github.io"
-  About Me: "aboutme"
-  Publications: "pub"
-  Why lattice: "why"
+  About Me: "material/aboutme"
+  Publications: "material/pub"
+  Why lattice: "material/why"
   Resources:
+    - NIST PQC standardization: "material/nist"
+    - Cryptography for blockchain: "material/bc"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/zhenfeizhang"
-    - Round5 KEM/PKE: "https://round5.org/"
-    - Falcon Signature: "https://falcon-sign.info/"
-    - NTRU: "https://ntru.org"
+
 #    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
 #  Author's home: "http://deanattali.com"
 
