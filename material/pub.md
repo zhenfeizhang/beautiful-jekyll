@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+2020
+-------
+* __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
+  * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
+  * PKC 2020. 
+
 
 2019
 -------

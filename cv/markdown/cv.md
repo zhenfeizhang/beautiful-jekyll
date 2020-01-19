@@ -7,29 +7,10 @@ Zhenfei Zhang
 ============
 
 -------------------     ----------------------------
-Cryptograhy Engineer                 zhenfei.zhang@hotmail.com
-Algorand                         https://zhenfeizhang.github.io/
-Boston, MA                          https://www.linkedin.com/in/zhenfeizhang/
+Cryptograhy Engineer    zhenfei.zhang@hotmail.com
+Algorand                https://zhenfeizhang.github.io/
+Boston, MA              https://www.linkedin.com/in/zhenfeizhang/
 -------------------     ----------------------------
-
-Education
----------
-
-2010-2014
-:   **PhD, Computer Science**, _University of Wollongong, Australia_;
-
-    *Thesis title: Revisiting Fully Homomorphic Encryption Schemes and Their Cryptographic Primitives*
-
-<!--
-2008-2009
-:   **Master of Engineering - Research**, _University of Wollongong, Australia_;
-
-2007
-:   **Master of Internet Technology**, _University of Wollongong, Australia_;
-
-2001-2005
-:   **Bachelor of Computer Science**, _BeiHang _University, China_.
--->
 
 
 Experience
@@ -40,46 +21,51 @@ Experience
 Identify, develop and standardize cryptographic tools to be used
 by Algorand blockchain protocol.
 
-* Design: Identify suitable cryptography for Algorand blockchain from scratch;
+* Design: Identify suitable cryptography for Algorand blockchain;
 
 * Coding:
-Product level __Rust__ code for [Pixel aggregatable signature](https://eprint.iacr.org/2019/514.pdf);
+Product level __Rust__ code for
+  * [Pixel aggregatable signature](https://github.com/algorand/pixel);
+  * [BLS signature](https://github.com/algorand/bls_sigs_ref);
+  * Vector commitment (TBA);
 
 * Standardization:
-[Internet draft](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/) for BLS signature scheme, IETF/CFRG workgroup.
+[Internet draft](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/) for BLS signature scheme, IETF/CFRG working group.
 
-**Director of Cryptography Research**, _OnBoard Security_ (Acquired by Qualcomm), 2016-2018
+**Director of Cryptography Research**, _Security Innovation_ -> _OnBoard Security_, 2014-2018
 
-NTRU and post-quantum cryptography research and standardization.
-
-**Research Scientist**, _Security Innovation_, 2014-2016
-
-IARPA project on Fully Homomorphic Encryptions.
+* Homomorphic encryptions (IARPA project);
+* Post-quantum cryptography;
+* blockchain cryptography.
 
 Highlights
 --------------------
 
 Standards
-:    Contribute to **4** out of 26 [2nd round candidates](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/round-2-submissions) of [NIST post-quantum standatdization process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography):
+: Contribute to **4** out of 26 [2nd round candidates](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/round-2-submissions) of NIST's [post-quantum standatdization process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography):
 [Falcon](https://falcon-sign.info/), [LAC](https://eprint.iacr.org/2018/1009), [NTRU](https://ntru.org) and [Round5](https://round5.org);
+: [LAC](https://eprint.iacr.org/2018/1009) won the first prize of [Chinese post-quantum cryptography competition](https://www.cacrnet.org.cn/site/content/854.html).
 : Internet draft: [BLS-signature](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/), Quantum safe hybrid for [TLS 1.2](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls12/) and [TLS 1.3](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls13/);
 : Former member of ETSI [Quantum-safe Cryptography (QSC)](https://www.etsi.org/technologies/quantum-safe-cryptography)  working group;
 : Former member of [ISO/SC27](https://www.iso.org/committee/45306.html) working group.
 
 
 Publication and patents
-: __3__ U.S. patents;
-: __25+__ peer reviewed paper at Asiacrypt 2019, Crypto 2019, Asiacrypt 2018, PKC 2018, IEEE Transaction on Computers, etc.;
+: __3__ U.S. patents; __25+__ peer reviewed paper at Asiacrypt 2019, Crypto 2019, Asiacrypt 2018, PKC 2018, IEEE Transaction on Computers, etc.;
 : See next pages for full list.
 
 
 Programming Languages
-:   **Rust**: Cryptographic library at product level; to be open sourced soon.
+:   **Rust**: Cryptographic library at product level.
 
 :   **C**: Cryptographic library, nearly product level code, submitted to NIST PQC competition.
 
-:   **Python/Sage**: 	Prove of concept codes.
+:   **Python/Sage**: 	Proof of concept codes.
 
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 
 Software
@@ -87,7 +73,10 @@ Software
 
 Pixel
 : A pairing based, forward-secure and aggregatable signature, written in python (PoC) and rust (product level). Improves existing (non-aggregatable) solution by 100x,
-to be open sourced and deployed soon.
+ open sourced and external audited. [Source code](https://github.com/algorand/pixel).
+
+Vector commitment
+: A pairing based, aggregatable vector commitment, written in rust (product level). To be open sourced soon.
 
 Raptor
 : A lattice based (linkable) ring signature, written in C as a PoC, aiming
@@ -105,12 +94,32 @@ libgcrypt-ntru
 : Enabling NTRUEncrypt for libgcrypt. [Source code](https://github.com/zhenfeizhang/libgcrypt-ntru).
 
 
+
+Education
+---------
+
+2010-2014
+:   **PhD, Computer Science**, _University of Wollongong, Australia_;
+
+    *Thesis title: Revisiting Fully Homomorphic Encryption Schemes and Their Cryptographic Primitives*
+
+
+2008-2009
+:   **Master of Engineering - Research**, _University of Wollongong, Australia_;
+
+2007
+:   **Master of Internet Technology**, _University of Wollongong, Australia_;
+
+2001-2005
+:   **Bachelor of Computer Science**, _BeiHang _University, China_.
+
+
+
 Research Interest
 --------------------
 
-* Fully homomorphic encryptions, with use cases such as smart contracts, machine learning;
-* Lattice based signatures, with additional features such as aggregation, anonymity;
-* Efficient zero knowledge proofs secure against quantum computers.
+* Practical aspects of lattice based cryptography;
+* Cryptographic primitives for blockchains privacy, such as ring signatures, zero knowledge proofs;
 
 \
 \
@@ -188,11 +197,23 @@ See next pages for the full list of patents, standards and publications.
 </div>
 
 # Publications
+
+2020
+-------
+* __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
+  * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
+  * PKC 2020.
+
+
 2019
 -------
+* __Modular Lattice Signatures, revisited__
+  * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
+  * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301)
+
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
-  * Asiacrypt 2019.
+  * Asiacrypt 2019.  [IACR eprint](https://eprint.iacr.org/2019/1001.pdf)
 
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
