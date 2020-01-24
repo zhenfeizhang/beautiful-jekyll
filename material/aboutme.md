@@ -19,4 +19,4 @@ I am also actively working on standardization
 of quantum-safe cryptography for various standards bodies.
 
 
-You may find a CV [here](../cv/output/cv.pdf), last update Aug, 2019.
+You may find a CV [here](../cv/output/cv.pdf), last update Jan 2020.
