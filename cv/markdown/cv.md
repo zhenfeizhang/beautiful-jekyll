@@ -202,7 +202,7 @@ See next pages for the full list of patents, standards and publications.
 -------
 * __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
   * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
-  * PKC 2020.
+  * PKC 2020. [IACR eprint](https://eprint.iacr.org/2020/198). [Source code](https://github.com/pqc-ntrust/middle-product-LWE-signature)
 
 
 2019
