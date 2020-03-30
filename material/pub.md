@@ -5,6 +5,10 @@ title: Publications
 
 2020
 -------
+* __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
+  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, and Zhenfei Zhang_
+  * ACM CCS 2020.
+
 * __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
   * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
   * PKC 2020. [IACR eprint](https://eprint.iacr.org/2020/198). [Source code](https://github.com/pqc-ntrust/middle-product-LWE-signature)

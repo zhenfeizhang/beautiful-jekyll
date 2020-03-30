@@ -7,7 +7,7 @@ Zhenfei Zhang
 ============
 
 -------------------     ----------------------------
-Cryptograhy Engineer    zhenfei.zhang@hotmail.com
+Cryptography Engineer   zhenfei.zhang@hotmail.com
 Algorand                https://zhenfeizhang.github.io/
 Boston, MA              https://www.linkedin.com/in/zhenfeizhang/
 -------------------     ----------------------------
@@ -27,7 +27,7 @@ by Algorand blockchain protocol.
 Product level __Rust__ code for
   * [Pixel aggregatable signature](https://github.com/algorand/pixel);
   * [BLS signature](https://github.com/algorand/bls_sigs_ref);
-  * Vector commitment (TBA);
+  * Pointproofs: Aggregating Proofs for Multiple Vector Commitments (TBA);
 
 * Standardization:
 [Internet draft](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/) for BLS signature scheme, IETF/CFRG working group.
@@ -51,7 +51,7 @@ Standards
 
 
 Publication and patents
-: __3__ U.S. patents; __25+__ peer reviewed paper at Asiacrypt 2019, Crypto 2019, Asiacrypt 2018, PKC 2018, IEEE Transaction on Computers, etc.;
+: __3__ U.S. patents; __25+__ peer reviewed paper at ACM CCS 2020, PKC 2020, Asiacrypt 2019, Crypto 2019, Asiacrypt 2018, PKC 2018, IEEE Transaction on Computers, etc.;
 : See next pages for full list.
 
 
@@ -75,8 +75,8 @@ Pixel
 : A pairing based, forward-secure and aggregatable signature, written in python (PoC) and rust (product level). Improves existing (non-aggregatable) solution by 100x,
  open sourced and external audited. [Source code](https://github.com/algorand/pixel).
 
-Vector commitment
-: A pairing based, aggregatable vector commitment, written in rust (product level). To be open sourced soon.
+Pointproofs:
+: A pairing based, aggregatable prove system over multiple vector commitments, written in rust (product level). To be open sourced soon.
 
 Raptor
 : A lattice based (linkable) ring signature, written in C as a PoC, aiming
@@ -111,7 +111,7 @@ Education
 :   **Master of Internet Technology**, _University of Wollongong, Australia_;
 
 2001-2005
-:   **Bachelor of Computer Science**, _BeiHang _University, China_.
+:   **Bachelor of Computer Science**, _BeiHang University, China_.
 
 
 
@@ -200,6 +200,10 @@ See next pages for the full list of patents, standards and publications.
 
 2020
 -------
+* __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
+  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, and Zhenfei Zhang_
+  * ACM CCS 2020.
+
 * __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
   * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
   * PKC 2020. [IACR eprint](https://eprint.iacr.org/2020/198). [Source code](https://github.com/pqc-ntrust/middle-product-LWE-signature)
