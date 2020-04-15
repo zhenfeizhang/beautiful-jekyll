@@ -29,8 +29,8 @@ navbar-links:
   Publications: "material/pub"
   Why lattice: "why"
   Resources:
-    - NIST PQC standardization: "material/nist"
-    - Cryptography for blockchain: "material/bc"
+    - Porjects: "material/projects"
+#    - Cryptography for blockchain: "material/bc"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/zhenfeizhang"

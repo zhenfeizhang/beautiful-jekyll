@@ -27,7 +27,7 @@ by Algorand blockchain protocol.
 Product level __Rust__ code for
   * [Pixel aggregatable signature](https://github.com/algorand/pixel);
   * [BLS signature](https://github.com/algorand/bls_sigs_ref);
-  * Pointproofs: Aggregating Proofs for Multiple Vector Commitments (TBA);
+  * [Pointproofs](https://github.com/algorand/pointproofs): Aggregating Proofs for Multiple Vector Commitments;
 
 * Standardization:
 [Internet draft](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/) for BLS signature scheme, IETF/CFRG working group.
@@ -76,7 +76,7 @@ Pixel
  open sourced and external audited. [Source code](https://github.com/algorand/pixel).
 
 Pointproofs:
-: A pairing based, aggregatable prove system over multiple vector commitments, written in rust (product level). To be open sourced soon.
+: A pairing based, aggregatable prove system over multiple vector commitments, written in rust (product level). [Source code](https://github.com/algorand/pointproofs).
 
 Raptor
 : A lattice based (linkable) ring signature, written in C as a PoC, aiming
@@ -302,7 +302,7 @@ See next pages for the full list of patents, standards and publications.
   * HPCS 2016. [IACR eprint](https://eprint.iacr.org/2016/471).
 
 
-2015
+2015 and earlier
 --------------------
 
 * __LLL for ideal lattices: re-evaluation of the security of Gentry-Halevi's FHE scheme.__
@@ -312,9 +312,6 @@ See next pages for the full list of patents, standards and publications.
 * __DA-Encrypt: Homomorphic Encryption via Non-Archimedean Diophantine Approximation.__
   * _Jeffrey Hoffstein, Jill Pipher, John M. Schanck, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2015/844).
-
-2014 and earlier
--------------------
 
 * __Fully Homomorphic Encryption Using Hidden Ideal Lattice.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_

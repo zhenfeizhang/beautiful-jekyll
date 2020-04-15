@@ -107,7 +107,7 @@ title: Publications
   * HPCS 2016. [IACR eprint](https://eprint.iacr.org/2016/471).
 
 
-2015
+2015 and earlier
 --------------------
 
 * __LLL for ideal lattices: re-evaluation of the security of Gentry-Halevi's FHE scheme.__
@@ -117,9 +117,6 @@ title: Publications
 * __DA-Encrypt: Homomorphic Encryption via Non-Archimedean Diophantine Approximation.__
   * _Jeffrey Hoffstein, Jill Pipher, John M. Schanck, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2015/844).
-
-2014 and earlier
--------------------
 
 * __Fully Homomorphic Encryption Using Hidden Ideal Lattice.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_

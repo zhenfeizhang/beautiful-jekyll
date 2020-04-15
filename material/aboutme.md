@@ -19,4 +19,6 @@ I am also actively working on standardization
 of quantum-safe cryptography for various standards bodies.
 
 
-You may find a CV [here](../cv/output/cv.pdf), last update Jan 2020.
+You may find a [CV](../cv/output/cv.pdf) and
+[highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
+last update April 2020.
