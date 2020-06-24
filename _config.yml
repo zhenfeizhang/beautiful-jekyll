@@ -27,14 +27,14 @@ navbar-links:
   News: "http://zhenfeizhang.github.io"
   About Me: "material/aboutme"
   Publications: "material/pub"
-  Why lattice: "why"
-  Resources:
-    - Porjects: "material/projects"
+  Projects: "material/projects"
+  Talks: "material/talks"
 #    - Cryptography for blockchain: "material/bc"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://github.com/zhenfeizhang"
-
+  GitHub: "https://github.com/zhenfeizhang"
+  Why lattice: "why"
+  
 #    - Quantum-safe Blockchain project: "https://github.com/quantum-safe-blockchain-project"
 #  Author's home: "http://deanattali.com"
 
