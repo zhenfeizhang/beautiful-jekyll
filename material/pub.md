@@ -64,7 +64,7 @@ title: Publications
 
 * __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
-  * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](talks/FiniteFieldSignatures.pdf).
+  * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](../../talks/FiniteFieldSignatures.pdf).
 
 * __Practical Signatures from the Partial Fourier Recovery Problem Revisited: A Provably-Secure and Gaussian-Distributed Construction.__
   * _Xingye Lu, Zhenfei Zhang, Man Ho Au_
@@ -94,13 +94,13 @@ title: Publications
 
 * __Anonymous Announcement System (AAS) for Electric Vehicle in VANETs.__
   * _Man Ho Au, Joseph K. Liu, Zhenfei Zhang, Willy Susilo, Jin Li_
-  * The Computer Journal. [Manuscript](pdf/aas.pdf).
+  * The Computer Journal. [Manuscript](../../pdf/aas.pdf).
 
 2016
 ---------------
 * __Circuit-extension handshakes for Tor achieving forward secrecy in a quantum world.__
   * _John M. Schanck, William Whyte, Zhenfei Zhang_
-  * PoPETs 2016. [IACR eprint](https://eprint.iacr.org/2015/287), [Tor feature request](https://gitweb.torproject.org/torspec.git/tree/proposals/269-hybrid-handshake.txt), [Source code](https://github.com/NTRUOpenSourceProject/ntru-tor), [Slides](talks/ntrutor.pdf).
+  * PoPETs 2016. [IACR eprint](https://eprint.iacr.org/2015/287), [Tor feature request](https://gitweb.torproject.org/torspec.git/tree/proposals/269-hybrid-handshake.txt), [Source code](https://github.com/NTRUOpenSourceProject/ntru-tor), [Slides](../../talks/ntrutor.pdf).
 
 * __NTRU modular lattice signature scheme on CUDA GPUs.__
   * _Wei Dai, Berk Sunar, John M. Schanck, William Whyte, Zhenfei Zhang_
@@ -112,7 +112,7 @@ title: Publications
 
 * __LLL for ideal lattices: re-evaluation of the security of Gentry-Halevi's FHE scheme.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * Design, Codes and Cryptography. [Manuscript](pdf/illl.pdf).
+  * Design, Codes and Cryptography. [Manuscript](../../pdf/illl.pdf).
 
 * __DA-Encrypt: Homomorphic Encryption via Non-Archimedean Diophantine Approximation.__
   * _Jeffrey Hoffstein, Jill Pipher, John M. Schanck, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
@@ -120,20 +120,20 @@ title: Publications
 
 * __Fully Homomorphic Encryption Using Hidden Ideal Lattice.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * IEEE Transation on Information Forensics and Security. [Manuscript](pdf/HiddenLattice.pdf).
+  * IEEE Transation on Information Forensics and Security. [Manuscript](../../pdf/HiddenLattice.pdf).
 
 * __Adaptive Precision Floating Point LLL.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * ACISP 2013. [Manuscript](pdf/adp_lll.pdf).
+  * ACISP 2013. [Manuscript](../../pdf/adp_lll.pdf).
 
 * __On the CCA-1 Security of Somewhat Homomorphic Encryption over the Integers.__
   * _Zhenfei Zhang, Thomas Plantard, Willy Susilo_
-  * ISPEC 2012. [Manuscript](pdf/cca.1.pdf).
+  * ISPEC 2012. [Manuscript](../../pdf/cca.1.pdf).
 
 * __Lattice Reduction for Modular Knapsack.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * SAC 2012. [Manuscript](pdf/rec_red.pdf).
+  * SAC 2012. [Manuscript](../../pdf/rec_red.pdf).
 
 * __Reaction Attack on Outsourced Computing with Fully Homomorphic Encryption Schemes.__
   * _Zhenfei Zhang, Thomas Plantard, Willy Susilo_
-  * ISPEC 2012. [Manuscript](pdf/pracfheatt.pdf).
+  * ISPEC 2012. [Manuscript](../../pdf/pracfheatt.pdf).
