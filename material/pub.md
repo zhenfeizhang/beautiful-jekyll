@@ -68,7 +68,7 @@ title: Publications
 
 * __Practical Signatures from the Partial Fourier Recovery Problem Revisited: A Provably-Secure and Gaussian-Distributed Construction.__
   * _Xingye Lu, Zhenfei Zhang, Man Ho Au_
-  * ACISP 2018. [Manuscript](pdf/PASS.pdf).
+  * ACISP 2018. [Manuscript](../../pdf/PASS.pdf).
 
 * __Optimizing polynomial convolution for NTRUEncrypt.__
   * _Wei Dai, William Whyte, Zhenfei Zhang_
