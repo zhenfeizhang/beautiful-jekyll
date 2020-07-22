@@ -42,11 +42,11 @@ Highlights
 --------------------
 
 Standards
-: Contribute to **4** out of 26 [2nd round candidates](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/round-2-submissions) of NIST's [post-quantum standatdization process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography):
-[Falcon](https://falcon-sign.info/), [LAC](https://eprint.iacr.org/2018/1009), [NTRU](https://ntru.org) and [Round5](https://round5.org);
+: Contribute to **2** out of 7 finalists of NIST's [post-quantum standatdization process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography):
+[Falcon](https://falcon-sign.info/) and [NTRU](https://ntru.org).
 : [LAC](https://eprint.iacr.org/2018/1009) won the first prize of [Chinese post-quantum cryptography competition](https://www.cacrnet.org.cn/site/content/854.html).
-: Internet draft: [BLS-signature](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/), Quantum safe hybrid for [TLS 1.2](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls12/) and [TLS 1.3](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls13/);
-: Former member of ETSI [Quantum-safe Cryptography (QSC)](https://www.etsi.org/technologies/quantum-safe-cryptography)  working group;
+: Internet draft: [BLS-signature](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/), Quantum safe hybrid for [TLS 1.2](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls12/) and [TLS 1.3](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls13/).
+: Former member of ETSI [Quantum-safe Cryptography (QSC)](https://www.etsi.org/technologies/quantum-safe-cryptography)  working group.
 : Former member of [ISO/SC27](https://www.iso.org/committee/45306.html) working group.
 
 
