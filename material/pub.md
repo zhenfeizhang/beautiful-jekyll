@@ -6,7 +6,7 @@ title: Publications
 2020
 -------
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
-  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, and Zhenfei Zhang_
+  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
   * ACM CCS 2020. [IACR eprint](https://eprint.iacr.org/2020/419). [Source code](https://github.com/algorand/pointproofs).
 
 * __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
@@ -33,7 +33,7 @@ title: Publications
   * TrustCom 2019.  [IACR eprint](https://eprint.iacr.org/2019/567).
 
 * __Ring Signatures based on Middle-Product Learning with Errors Problems__
-  * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
+  * _Dipayan Das, Man Ho Au, Zhenfei Zhang_
   * Africacrypt 2019.
 
 * __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
@@ -52,7 +52,7 @@ title: Publications
 ------------------------
 * __LAC: Practical Ring-LWE Based Public-Key Encryption with Byte-Level Modulus__
   * _Xianhui Lu, Yamin Liu, Zhenfei Zhang, Dingding Jia, Haiyang Xue, Jingnan He, Bao Li_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC)
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC). [talk](../../talks/nist-lac-2019.pdf)
 
 * __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
   * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
@@ -65,6 +65,7 @@ title: Publications
 * __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
   * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](../../talks/FiniteFieldSignatures.pdf).
+  * Journal of Mathematical Cryptology. [Journal version](https://www.degruyter.com/view/journals/jmc/14/1/article-p39.xml)
 
 * __Practical Signatures from the Partial Fourier Recovery Problem Revisited: A Provably-Secure and Gaussian-Distributed Construction.__
   * _Xingye Lu, Zhenfei Zhang, Man Ho Au_

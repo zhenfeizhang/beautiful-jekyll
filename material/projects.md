@@ -9,8 +9,14 @@ title: A highlight of projects
 - Pixel signature: [Source code: dev, stable](https://github.com/algorand/pixel)
 - Pointproofs: [Source code: dev, stable](https://github.com/algorand/pointproofs), [Paper](https://eprint.iacr.org/2020/419)
 
-# NIST post-quantum standardization process
-- [Round5 KEM/PKE](https://round5.org/)
-- [Falcon Signature](https://falcon-sign.info/)
-- [NTRU](https://ntru.org)
-- [LAC](https://eprint.iacr.org/2018/1009.pdf)
+# NIST post-quantum cryptography
+- 3nd round finalists
+  - [Falcon Signature](https://falcon-sign.info/)
+  - [NTRU](https://ntru.org)
+
+- 2nd round candidates
+  - [Round5 KEM/PKE](https://round5.org/)
+  - [LAC](https://eprint.iacr.org/2018/1009.pdf)
+
+- 1st round candidate
+  - [pqNTRUSign](https://eprint.iacr.org/2019/1301)
