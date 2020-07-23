@@ -19,7 +19,7 @@ title: Publications
 * __Modular Lattice Signatures, revisited__
   * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
   * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301)
-  * [1nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
+  * [1st round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
 
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
