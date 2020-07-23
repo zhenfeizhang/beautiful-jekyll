@@ -22,4 +22,4 @@ of quantum-safe cryptography for various standards bodies.
 
 You may find a [CV](../cv/output/cv.pdf) and
 [highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
-last update April 2020.
+last update July 2020.
