@@ -19,6 +19,7 @@ title: Publications
 * __Modular Lattice Signatures, revisited__
   * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
   * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301)
+  * [1nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
 
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
@@ -43,6 +44,7 @@ title: Publications
 * __Round5: Compact and Fast Post-Quantum Public-Key Encryption__
   * _Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang_
   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf). [Website](https://round5.org).
+  * [2nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-2-submissions), NIST post-quantum cryptography standardization process.
 
 * __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
   * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
@@ -53,6 +55,8 @@ title: Publications
 * __LAC: Practical Ring-LWE Based Public-Key Encryption with Byte-Level Modulus__
   * _Xianhui Lu, Yamin Liu, Zhenfei Zhang, Dingding Jia, Haiyang Xue, Jingnan He, Bao Li_
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC). [talk](../../talks/nist-lac-2019.pdf)
+  * __First prize__ of [Chinese post-quantum cryptography competition](https://www.cacrnet.org.cn/site/content/854.html).
+  * [2nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-2-submissions), NIST post-quantum cryptography standardization process.
 
 * __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
   * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_

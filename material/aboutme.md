@@ -8,7 +8,7 @@ I deal with cryptography for blockchains and write  [several cryptographic libra
 Before jointing Algorand, I was the director of cryptographic
 research at [OnBoard Security Inc](https://www.onboardsecurity.com/);
 and a
-Research Scientist for [Security Innovation Inc](https://www.securityinnovation.com/).  I contributed to __2__ out of 7 NIST PQC finalists: [NTRU](https://ntru.org)
+Research Scientist for [Security Innovation Inc](https://www.securityinnovation.com/).  I contributed to __2__ out of 7 [NIST PQC finalists](https://csrc.nist.gov/projects/post-quantum-cryptography/round-3-submissions): [NTRU](https://ntru.org)
 and [Falcon](https://falcon-sign.info/).
 
 I received my Ph.D. from

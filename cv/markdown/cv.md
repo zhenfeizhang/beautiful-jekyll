@@ -42,7 +42,7 @@ Highlights
 --------------------
 
 Standards
-: Contribute to **2** out of 7 finalists of NIST's [post-quantum standatdization process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography):
+: Contribute to **2** out of 7 finalists of NIST's [post-quantum standardization process](https://csrc.nist.gov/projects/post-quantum-cryptography/round-3-submissions):
 [Falcon](https://falcon-sign.info/) and [NTRU](https://ntru.org).
 : [LAC](https://eprint.iacr.org/2018/1009) won the first prize of [Chinese post-quantum cryptography competition](https://www.cacrnet.org.cn/site/content/854.html).
 : Internet draft: [BLS-signature](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/), Quantum safe hybrid for [TLS 1.2](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls12/) and [TLS 1.3](https://datatracker.ietf.org/doc/draft-whyte-qsh-tls13/).
@@ -58,7 +58,7 @@ Publication and patents
 Programming Languages
 :   **Rust**: Cryptographic library at product level.
 
-:   **C**: Cryptographic library, nearly product level code, submitted to NIST PQC competition.
+:   **C**: Cryptographic library, nearly product level code.
 
 :   **Python/Sage**: 	Proof of concept codes.
 
@@ -201,7 +201,7 @@ See next pages for the full list of patents, standards and publications.
 2020
 -------
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
-  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, and Zhenfei Zhang_
+  * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
   * ACM CCS 2020. [IACR eprint](https://eprint.iacr.org/2020/419). [Source code](https://github.com/algorand/pointproofs).
 
 * __MPSign: A Signature from Small-Secret Middle-Product Learning with Errors__
@@ -214,10 +214,11 @@ See next pages for the full list of patents, standards and publications.
 * __Modular Lattice Signatures, revisited__
   * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
   * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301)
+  * [1nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
 
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
-  * Asiacrypt 2019.  [IACR eprint](https://eprint.iacr.org/2019/1001.pdf)
+  * Asiacrypt 2019. [IACR eprint](https://eprint.iacr.org/2019/1001).
 
 * __Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications__
   * _Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte_
@@ -228,7 +229,7 @@ See next pages for the full list of patents, standards and publications.
   * TrustCom 2019.  [IACR eprint](https://eprint.iacr.org/2019/567).
 
 * __Ring Signatures based on Middle-Product Learning with Errors Problems__
-  * _Dipayan Das, Man Ho Au and Zhenfei Zhang_
+  * _Dipayan Das, Man Ho Au, Zhenfei Zhang_
   * Africacrypt 2019.
 
 * __Raptor: A Practical Lattice-Based (Linkable) Ring Signature__
@@ -238,6 +239,7 @@ See next pages for the full list of patents, standards and publications.
 * __Round5: Compact and Fast Post-Quantum Public-Key Encryption__
   * _Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang_
   * PQCrypto 2019. [IACR eprint](https://eprint.iacr.org/2019/090.pdf). [Website](https://round5.org).
+  * [2nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-2-submissions), NIST post-quantum cryptography standardization process.
 
 * __Cryptanalysis of an NTRU-based Proxy Encryption Scheme from ASIACCS'15__
   * _Zhen Liu, Yanbin Pan, Zhenfei Zhang_
@@ -247,7 +249,9 @@ See next pages for the full list of patents, standards and publications.
 ------------------------
 * __LAC: Practical Ring-LWE Based Public-Key Encryption with Byte-Level Modulus__
   * _Xianhui Lu, Yamin Liu, Zhenfei Zhang, Dingding Jia, Haiyang Xue, Jingnan He, Bao Li_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC)
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2018/1009). [Source code](https://github.com/luxianhui007/LAC). [talk](../../talks/nist-lac-2019.pdf)
+  * __First prize__ of [Chinese post-quantum cryptography competition](https://www.cacrnet.org.cn/site/content/854.html).
+  * [2nd round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-2-submissions), NIST post-quantum cryptography standardization process.
 
 * __Shorter Messages and Faster Post-Quantum Encryption with Round5 on Cortex M__
   * _Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang_
@@ -259,11 +263,12 @@ See next pages for the full list of patents, standards and publications.
 
 * __A signature scheme from the finite field isomorphism problem.__
   * _Jeffrey Hoffstein, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
-  * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](talks/FiniteFieldSignatures.pdf).
+  * MathCrypt 2018. [IACR eprint](https://eprint.iacr.org/2018/675), [Slides](../../talks/FiniteFieldSignatures.pdf).
+  * Journal of Mathematical Cryptology. [Journal version](https://www.degruyter.com/view/journals/jmc/14/1/article-p39.xml)
 
 * __Practical Signatures from the Partial Fourier Recovery Problem Revisited: A Provably-Secure and Gaussian-Distributed Construction.__
   * _Xingye Lu, Zhenfei Zhang, Man Ho Au_
-  * ACISP 2018. [Manuscript](pdf/PASS.pdf).
+  * ACISP 2018.
 
 * __Optimizing polynomial convolution for NTRUEncrypt.__
   * _Wei Dai, William Whyte, Zhenfei Zhang_
@@ -289,13 +294,13 @@ See next pages for the full list of patents, standards and publications.
 
 * __Anonymous Announcement System (AAS) for Electric Vehicle in VANETs.__
   * _Man Ho Au, Joseph K. Liu, Zhenfei Zhang, Willy Susilo, Jin Li_
-  * The Computer Journal. [Manuscript](pdf/aas.pdf).
+  * The Computer Journal.
 
 2016
 ---------------
 * __Circuit-extension handshakes for Tor achieving forward secrecy in a quantum world.__
   * _John M. Schanck, William Whyte, Zhenfei Zhang_
-  * PoPETs 2016. [IACR eprint](https://eprint.iacr.org/2015/287), [Tor feature request](https://gitweb.torproject.org/torspec.git/tree/proposals/269-hybrid-handshake.txt), [Source code](https://github.com/NTRUOpenSourceProject/ntru-tor), [Slides](talks/ntrutor.pdf).
+  * PoPETs 2016. [IACR eprint](https://eprint.iacr.org/2015/287), [Tor feature request](https://gitweb.torproject.org/torspec.git/tree/proposals/269-hybrid-handshake.txt), [Source code](https://github.com/NTRUOpenSourceProject/ntru-tor).
 
 * __NTRU modular lattice signature scheme on CUDA GPUs.__
   * _Wei Dai, Berk Sunar, John M. Schanck, William Whyte, Zhenfei Zhang_
@@ -307,7 +312,7 @@ See next pages for the full list of patents, standards and publications.
 
 * __LLL for ideal lattices: re-evaluation of the security of Gentry-Halevi's FHE scheme.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * Design, Codes and Cryptography. [Manuscript](pdf/illl.pdf).
+  * Design, Codes and Cryptography.
 
 * __DA-Encrypt: Homomorphic Encryption via Non-Archimedean Diophantine Approximation.__
   * _Jeffrey Hoffstein, Jill Pipher, John M. Schanck, Joseph H. Silverman, William Whyte, Zhenfei Zhang_
@@ -315,20 +320,20 @@ See next pages for the full list of patents, standards and publications.
 
 * __Fully Homomorphic Encryption Using Hidden Ideal Lattice.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * IEEE Transation on Information Forensics and Security. [Manuscript](pdf/HiddenLattice.pdf).
+  * IEEE Transation on Information Forensics and Security.
 
 * __Adaptive Precision Floating Point LLL.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * ACISP 2013. [Manuscript](pdf/adp_lll.pdf).
+  * ACISP 2013.
 
 * __On the CCA-1 Security of Somewhat Homomorphic Encryption over the Integers.__
   * _Zhenfei Zhang, Thomas Plantard, Willy Susilo_
-  * ISPEC 2012. [Manuscript](pdf/cca.1.pdf).
+  * ISPEC 2012.
 
 * __Lattice Reduction for Modular Knapsack.__
   * _Thomas Plantard, Willy Susilo, Zhenfei Zhang_
-  * SAC 2012. [Manuscript](pdf/rec_red.pdf).
+  * SAC 2012.
 
 * __Reaction Attack on Outsourced Computing with Fully Homomorphic Encryption Schemes.__
   * _Zhenfei Zhang, Thomas Plantard, Willy Susilo_
-  * ISPEC 2012. [Manuscript](pdf/pracfheatt.pdf).
+  * ISPEC 2012.
