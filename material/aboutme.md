@@ -4,7 +4,7 @@ title: About me
 ---
 
 I am a Cryptographic Engineer at [Algorand](algorand.com).
-I deal with cryptography for blockchains and write (several cryptographic libraries](https://zhenfeizhang.github.io/material/projects/).
+I deal with cryptography for blockchains and write  [several cryptographic libraries](https://zhenfeizhang.github.io/material/projects/).
 Before jointing Algorand, I was the director of cryptographic
 research at [OnBoard Security Inc](https://www.onboardsecurity.com/);
 and a
