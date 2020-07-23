@@ -19,6 +19,8 @@ encryptions, and anonymous signatures.
 I am also actively working on standardization
 of quantum-safe cryptography for various standards bodies.
 
+My [Erdos number](https://en.wikipedia.org/wiki/List_of_people_by_Erdős_number) is __3__.
+
 
 You may find a [CV](../cv/output/cv.pdf) and
 [highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
