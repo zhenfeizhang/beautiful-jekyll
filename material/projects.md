@@ -7,7 +7,7 @@ title: A highlight of projects
 - Raptor signature: [github](https://github.com/zhenfeizhang/raptor), [paper](https://eprint.iacr.org/2018/857)
 - BLS signature: [github](https://github.com/algorand/bls_sigs_ref), [crate.io](https://crates.io/crates/bls_sigs_ref), [Internet-Draft](https://tools.ietf.org/html/draft-boneh-bls-signature-00)
 - Pixel signature: [github](https://github.com/algorand/pixel)
-- Pointproofs: [github](https://github.com/algorand/pointproofs), [Paper](https://eprint.iacr.org/2020/419)
+- Pointproofs: [github](https://github.com/algorand/pointproofs), [paper](https://eprint.iacr.org/2020/419)
 
 # NIST post-quantum cryptography
 - 3nd round finalists
