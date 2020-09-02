@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+* [__Algorand in QuantumLand__](../../talks/Algorand_in_QuantumLand.pdf)
+  * A non-tech talk to raise the awareness of quantum risks of blockchains, Aug 2020.
 
 * [__Cryptography in Algorand__](../../talks/algorand_crypto.pdf)
   * Chinese Academy of Science, June 2020.
