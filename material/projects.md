@@ -1,13 +1,19 @@
 ---
 layout: default
-title: A highlight of projects
+title: Highlight of projects
 ---
 
 # Blockchain cryptography
-- Raptor signature: [github](https://github.com/zhenfeizhang/raptor), [paper](https://eprint.iacr.org/2018/857)
-- BLS signature: [github](https://github.com/algorand/bls_sigs_ref), [crate.io](https://crates.io/crates/bls_sigs_ref), [Internet-Draft](https://tools.ietf.org/html/draft-boneh-bls-signature-00), [press](https://www.algorand.com/resources/blog/first-release-bls-library)
-- Pixel signature: [github](https://github.com/algorand/pixel), [press](https://medium.com/algorand/digital-signatures-for-blockchains-5820e15fbe95)
-- Pointproofs: [github](https://github.com/algorand/pointproofs), [paper](https://eprint.iacr.org/2020/419), [press](https://www.algorand.com/resources/blog/pointproofs)
+- Verifiable random functions
+  - LB-VRF: [github](https://github.com/zhenfeizhang/lb-vrf), [paper](https://eprint.iacr.org/2020/1222)
+
+- Signatures
+  - Raptor signature: [github](https://github.com/zhenfeizhang/raptor), [paper](https://eprint.iacr.org/2018/857)
+  - BLS signature: [github](https://github.com/algorand/bls_sigs_ref), [crate.io](https://crates.io/crates/bls_sigs_ref), [Internet-Draft](https://tools.ietf.org/html/draft-boneh-bls-signature-00), [press](https://www.algorand.com/resources/blog/first-release-bls-library)
+  - Pixel signature: [github](https://github.com/algorand/pixel), [press](https://medium.com/algorand/digital-signatures-for-blockchains-5820e15fbe95)
+
+- Proof systems
+  - Pointproofs: [github](https://github.com/algorand/pointproofs), [paper](https://eprint.iacr.org/2020/419), [press](https://www.algorand.com/resources/blog/pointproofs)
 
 # NIST post-quantum cryptography
 - 3nd round finalists
