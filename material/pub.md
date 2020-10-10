@@ -5,6 +5,10 @@ title: Publications
 
 2020
 -------
+* __Practical Post-Quantum Few-Time Verifiable Random Function with Applications to Algorand__
+  * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/zhenfeizhang/lb-vrf).
+
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
   * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
   * ACM CCS 2020. [IACR eprint](https://eprint.iacr.org/2020/419). [Source code](https://github.com/algorand/pointproofs).
@@ -13,14 +17,13 @@ title: Publications
   * _Shi Bai, Dipayan Das, Ryo Hiromasa, Miruna Rosca, Amin Sakzad, Damien Stehle, Ron Steinfeld, Zhenfei Zhang_
   * PKC 2020. [IACR eprint](https://eprint.iacr.org/2020/198). [Source code](https://github.com/pqc-ntrust/middle-product-LWE-signature)
 
+* __Modular Lattice Signatures, revisited__
+  * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
+  * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301). [Source code](https://github.com/zhenfeizhang/pqntrusign-nist-submission).
+  * [1st round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
 
 2019
 -------
-* __Modular Lattice Signatures, revisited__
-  * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
-  * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301)
-  * [1st round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
-
 * __Middle-Product Learning with Rounding Problem and its Applications__
   * _Shi Bai, Katharina Boudgoust, Dipayan Das, Adeline Roux-Langlois, Weiqiang Wen, Zhenfei Zhang_
   * Asiacrypt 2019. [IACR eprint](https://eprint.iacr.org/2019/1001).
@@ -141,4 +144,4 @@ title: Publications
 
 * __Reaction Attack on Outsourced Computing with Fully Homomorphic Encryption Schemes.__
   * _Zhenfei Zhang, Thomas Plantard, Willy Susilo_
-  * ISPEC 2012. [Manuscript](../../pdf/pracfheatt.pdf).
+  * ICISC 2011. [Manuscript](../../pdf/pracfheatt.pdf).
