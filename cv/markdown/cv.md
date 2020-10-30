@@ -6,17 +6,21 @@ templates credit: https://mszep.github.io/pandoc_resume/
 Zhenfei Zhang
 ============
 
--------------------     ----------------------------
-Cryptography Engineer   zhenfei.zhang@hotmail.com
-Algorand                https://zhenfeizhang.github.io/
-Boston, MA              https://www.linkedin.com/in/zhenfeizhang/
--------------------     ----------------------------
+-------------------         ----------------------------
+Cryptographer               zhenfei.zhang@hotmail.com
+Ant Group                   https://zhenfeizhang.github.io/
+Hangzhou, China             https://www.linkedin.com/in/zhenfeizhang/
+-------------------         ----------------------------
 
 
 Experience
 ----------
 
-**Cryptography Engineer**, _Algorand_, 2018-now
+**Cryptographer**, _Ant Group_, 2020-now
+
+
+
+**Cryptography Engineer**, _Algorand_, 2018-2020
 
 Identify, develop and standardize cryptographic tools to be used
 by Algorand blockchain protocol.
@@ -24,10 +28,10 @@ by Algorand blockchain protocol.
 * Design: Identify suitable cryptography for Algorand blockchain;
 
 * Coding:
-Product level __Rust__ code for
-  * [Pixel aggregatable signature](https://github.com/algorand/pixel);
-  * [BLS signature](https://github.com/algorand/bls_sigs_ref);
-  * [Pointproofs](https://github.com/algorand/pointproofs): Aggregating Proofs for Multiple Vector Commitments;
+Product level __Rust__ code, for examples:
+  [Pixel aggregatable signature](https://github.com/algorand/pixel),
+  [BLS signature](https://github.com/algorand/bls_sigs_ref),
+  [Pointproofs](https://github.com/algorand/pointproofs).
 
 * Standardization:
 [Internet draft](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bls-signature/) for BLS signature scheme, IETF/CFRG working group.
