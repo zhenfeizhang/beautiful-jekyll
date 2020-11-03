@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a Cryptographer at [Ant Group](https://www.ant-group.com). Prior to that, I worked for [Algorand](algorand.com),
+I am a senior security expert at [Ant Group](https://www.ant-group.com). Prior to that, I worked for [Algorand](algorand.com),
 [OnBoard Security Inc](https://www.onboardsecurity.com/) and [Security Innovation Inc](https://www.securityinnovation.com/).
 I received my Ph.D. from
 [University of Wollongong](https://www.uow.edu.au/) in 2014.
