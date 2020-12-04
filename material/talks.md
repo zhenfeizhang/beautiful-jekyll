@@ -9,7 +9,7 @@ title: Talks
 * [__Cryptography in Algorand__](../../talks/algorand_crypto.pdf)
   * Chinese Academy of Science, June 2020.
 
-* [__A review on FHE__](../../talks/review_fhe.pdf)  
+* [__A review on FHE__](../../talks/10-18-zz.pdf)  
   * October, 2019.
 
 * [__Updates on LAC cryptosystem__](../../talks/nist-lac-2019.pdf)  
