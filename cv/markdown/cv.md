@@ -202,11 +202,14 @@ See next pages for the full list of patents, standards and publications.
 
 # Publications
 
-2020
+2021
 -------
 * __Practical Post-Quantum Few-Time Verifiable Random Function with Applications to Algorand__
   * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2020/1222).  [Source code](https://github.com/zhenfeizhang/lb-vrf).
+  * Financial Cryptography 2021. [IACR eprint](https://eprint.iacr.org/2020/1222).  [Source code](https://github.com/zhenfeizhang/lb-vrf).
+
+2020
+-------
 
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
   * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
