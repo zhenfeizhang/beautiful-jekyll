@@ -13,6 +13,10 @@ title: Publications
 2020
 -------
 
+* __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
+  * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
+  * [Pre-print](). [Source code]()
+
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
   * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
   * ACM CCS 2020. [IACR eprint](https://eprint.iacr.org/2020/419). [Source code](https://github.com/algorand/pointproofs).
