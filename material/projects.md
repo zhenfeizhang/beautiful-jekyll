@@ -3,6 +3,10 @@ layout: default
 title: Highlight of projects
 ---
 
+# Privacy-preserving machine learning
+- ZK for Neural Networks
+  - ZEN: [github](), [paper]()
+
 # Blockchain cryptography
 - Verifiable random functions
   - LB-VRF: [github](https://github.com/zhenfeizhang/lb-vrf), [paper](https://eprint.iacr.org/2020/1222)
