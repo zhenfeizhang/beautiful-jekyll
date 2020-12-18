@@ -20,3 +20,5 @@ My [Erdos number](https://en.wikipedia.org/wiki/List_of_people_by_Erdős_number)
 You may find a [CV](../cv/output/cv.pdf) and
 [highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
 last update Oct 2020.
+
+I have [openings](https://iacr.org/jobs/item/2413) for cryptography engineers and/or researchers at all levels. 
