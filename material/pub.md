@@ -13,9 +13,13 @@ title: Publications
 2020
 -------
 
+* __Manta: Privacy Preserving Decentralized Exchange__
+  * _Shumo Chu, Qiudong Xia, Zhenfei Zhang_
+  * Pre-print.
+
 * __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
   * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
-  * [Pre-print](). [Source code]()
+  * Pre-print.
 
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
   * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
@@ -29,6 +33,10 @@ title: Publications
   * _Dipayan Das, Jeffrey Hoffstein, Jill Pipher, William Whyte, Zhenfei Zhang_
   * Design, Codes and Cryptography. [IACR eprint](https://eprint.iacr.org/2019/1301). [Source code](https://github.com/zhenfeizhang/pqntrusign-nist-submission).
   * [1st round](https://csrc.nist.gov/Projects/post-quantum-cryptography/round-1-submissions), NIST post-quantum cryptography standardization process.
+  
+* __BLS Signatures__
+  * _Dan Boneh, Sergey Gorbonov, Riad Wahby, Hoeteck Wee, Zhenfei Zhang_
+  * Internet Draft, IETF CFRG Working Group. [I-D](https://tools.ietf.org/html/draft-irtf-cfrg-bls-signature-04). [Source code](https://github.com/cfrg/draft-irtf-cfrg-bls-signature). [Ref implementation](https://github.com/algorand/bls_sigs_ref).
 
 2019
 -------
