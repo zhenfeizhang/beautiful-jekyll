@@ -15,7 +15,7 @@ title: Publications
 
 * __Manta: Privacy Preserving Decentralized Exchange__
   * _Shumo Chu, Qiudong Xia, Zhenfei Zhang_
-  * Pre-print.
+  * Pre-print.  [IACR eprint](https://eprint.iacr.org/2020/1607).
 
 * __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
   * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
