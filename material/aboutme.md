@@ -3,8 +3,9 @@ layout: page
 title: About me
 ---
 
-I am a senior security expert at [Ant Group](https://www.ant-group.com). Prior to that, I worked for [Algorand](algorand.com),
-[OnBoard Security Inc](https://www.onboardsecurity.com/) and [Security Innovation Inc](https://www.securityinnovation.com/).
+I am a cryptographer for a stealth mode startup. 
+Prior to that, I worked for [Ant Group](https://www.ant-group.com), [Algorand](algorand.com),
+and [OnBoard Security Inc](https://www.onboardsecurity.com/).
 I received my Ph.D. from
 [University of Wollongong](https://www.uow.edu.au/) in 2014.
 
@@ -21,4 +22,3 @@ You may find a [CV](../cv/output/cv.pdf) and
 [highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
 last update Oct 2020.
 
-I have [openings](https://iacr.org/jobs/item/2413) for cryptography engineers and/or researchers at all levels. 
