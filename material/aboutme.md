@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a cryptographer.
+I am a cryptographer at [Manta Network](manta.network).
 Prior to that, I worked for [Ant Group](https://www.ant-group.com), [Algorand](algorand.com),
 and [OnBoard Security Inc](https://www.onboardsecurity.com/).
 I received my Ph.D. from
