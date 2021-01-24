@@ -7,7 +7,7 @@ title: Talks
   * A non-tech talk to raise the awareness of quantum risks of blockchains, Aug 2020.
 
 * [__Cryptography in Algorand__](../../talks/algorand_crypto.pdf)
-  * Chinese Academy of Science, June 2020.
+  * June 2020.
 
 * [__A review on FHE__](../../talks/10-18-zz.pdf)  
   * October, 2019.
