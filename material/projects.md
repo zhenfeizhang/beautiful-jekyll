@@ -5,6 +5,7 @@ title: Highlight of projects
 
 # Privacy-preserving machine learning
 - ZK for Neural Networks
+  - [github](https://github.com/UCSB-TDS/ZEN), [paper](https://eprint.iacr.org/2021/087)
   
 # Blockchain cryptography
 - Manta: Privacy Preserving Decentralized Exchange
