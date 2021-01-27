@@ -9,6 +9,9 @@ title: Publications
   * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
   * Financial Cryptography 2021. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/zhenfeizhang/lb-vrf).
 
+* __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
+  * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/UCSB-TDS/ZEN).
 
 2020
 -------
@@ -17,9 +20,6 @@ title: Publications
   * _Shumo Chu, Qiudong Xia, Zhenfei Zhang_
   * Pre-print.  [IACR eprint](https://eprint.iacr.org/2020/1607).
 
-* __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
-  * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
-  * Pre-print.
 
 * __Pointproofs: Aggregating Proofs for Multiple Vector Commitments__
   * _Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang_
