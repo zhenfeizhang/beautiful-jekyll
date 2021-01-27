@@ -11,7 +11,7 @@ title: Publications
 
 * __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
   * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/UCSB-TDS/ZEN).
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/087). [Source code](https://github.com/UCSB-TDS/ZEN).
 
 2020
 -------
