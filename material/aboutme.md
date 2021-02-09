@@ -22,4 +22,4 @@ You may find a [CV](../cv/output/cv.pdf) and
 [highlights of projects](https://zhenfeizhang.github.io/material/projects/) that I worked on;
 last update Oct 2020.
 
-I have [openings](https://www.iacr.org/jobs/item/2440) for cryptographic engineers. 
+I have [openings](https://angel.co/company/manta-network/jobs/1182625-protocol-and-backend-engineers) for cryptographic engineers. 
