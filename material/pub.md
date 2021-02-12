@@ -9,6 +9,10 @@ title: Publications
   * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
   * Financial Cryptography 2021. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/zhenfeizhang/lb-vrf).
 
+* __Hybrid Dual Attack on LWE with Arbitrary Secrets__
+ * _Lei Bi and Xianhui Lu and Junjie Luo and Kunpeng Wang and Zhenfei Zhang_
+ * Pre-print. [IACR eprint](https://www.iacr.org/news/item/15521). [Estimator](https://github.com/BiLei121/hybrid-dual-estimator).
+
 * __ZEN: Efficient Zero-Knowledge Proofs for Neural Networks__
   * _Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu_
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/087). [Source code](https://github.com/UCSB-TDS/ZEN).
