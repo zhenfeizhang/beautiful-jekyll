@@ -10,6 +10,7 @@ title: Highlight of projects
 # Blockchain cryptography
 - Manta: Privacy Preserving Decentralized Exchange
   - [website](https://manta.network), [github](https://github.com/Manta-Network), [paper](https://eprint.iacr.org/2020/1607)
+  - found raising [press](https://www.theblockcrypto.com/linked/93365/polychain-privacy-dex-manta-seed)
 
 - Verifiable random functions
   - LB-VRF: [github](https://github.com/zhenfeizhang/lb-vrf), [paper](https://eprint.iacr.org/2020/1222)
