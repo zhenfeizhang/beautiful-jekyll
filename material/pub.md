@@ -11,7 +11,7 @@ title: Publications
 
 * __TensorCrypt__
   * Wai-Kong Lee, Hwajeong Seo, Zhenfei Zhang and Seongoun Hwang
-  * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/173).
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/173). [Source code](https://github.com/benlwk/Tensorcrypto).
  
 * __Hybrid Dual Attack on LWE with Arbitrary Secrets__
   * _Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang and Zhenfei Zhang_
