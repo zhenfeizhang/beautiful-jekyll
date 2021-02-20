@@ -9,7 +9,7 @@ title: Publications
   * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
   * Financial Cryptography 2021. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/zhenfeizhang/lb-vrf).
 
-* __TensorCrypt__
+* __TensorCrypto__
   * Wai-Kong Lee, Hwajeong Seo, Zhenfei Zhang and Seongoun Hwang
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/173). [Source code](https://github.com/benlwk/Tensorcrypto).
  
