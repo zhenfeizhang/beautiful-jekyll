@@ -9,6 +9,10 @@ title: Publications
   * _Muhammed F. Esgin and Veronika Kuchta and Amin Sakzad and Ron Steinfeld and Zhenfei Zhang and Shifeng Sun and Shumo Chu_
   * Financial Cryptography 2021. [IACR eprint](https://eprint.iacr.org/2020/1222). [Source code](https://github.com/zhenfeizhang/lb-vrf).
 
+* __Post-Quantum Verifiable Random Function from Symmetric Primitives in PoS Blockchain__
+  * _Maxime Buser and Rafael Dowsley and Muhammed F. Esgin and Shabnam Kasra Kermanshahi and Veronika Kuchta and Joseph K. Liu and Raphael Phan and Zhenfei Zhang_
+  * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/xxx).
+
 * __TensorCrypto__
   * Wai-Kong Lee, Hwajeong Seo, Zhenfei Zhang and Seongoun Hwang
   * Pre-print. [IACR eprint](https://eprint.iacr.org/2021/173). [Source code](https://github.com/benlwk/Tensorcrypto).
