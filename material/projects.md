@@ -13,7 +13,8 @@ title: Highlight of projects
   - found raising [press](https://www.theblockcrypto.com/linked/93365/polychain-privacy-dex-manta-seed)
 
 - Verifiable random functions
-  - LB-VRF: [github](https://github.com/zhenfeizhang/lb-vrf), [paper](https://eprint.iacr.org/2020/1222)
+  - Lattice based construction: [github](https://github.com/zhenfeizhang/lb-vrf), [paper](https://eprint.iacr.org/2020/1222)
+  - Hash based construction: [paper](https://eprint.iacr.org/2021/302)
 
 - Signatures
   - Raptor signature: [github](https://github.com/zhenfeizhang/raptor), [paper](https://eprint.iacr.org/2018/857)
